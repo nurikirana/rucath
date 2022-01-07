@@ -26,7 +26,7 @@ jobs:
           name: akaoqiei
           command: |
             ls
-            sleep 2s
+            sleep 25s
 
   akaoqi3:
     docker:
